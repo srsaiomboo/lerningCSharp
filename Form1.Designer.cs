@@ -38,17 +38,21 @@
             // dgvFinancialResults
             // 
             dgvFinancialResults.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvFinancialResults.Location = new Point(12, 132);
+            dgvFinancialResults.Dock = DockStyle.Bottom;
+            dgvFinancialResults.Location = new Point(0, 144);
             dgvFinancialResults.Name = "dgvFinancialResults";
             dgvFinancialResults.RowTemplate.Height = 25;
-            dgvFinancialResults.Size = new Size(531, 306);
+            dgvFinancialResults.Size = new Size(663, 306);
             dgvFinancialResults.TabIndex = 0;
+            dgvFinancialResults.CellContentClick += dgvFinancialResults_CellContentClick;
+            dgvFinancialResults.CellValueChanged += dgvFinancialResults_CellValueChanged;
+            dgvFinancialResults.CellValueNeeded += dgvFinancialResults_CellValueNeeded;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.Location = new Point(11, 21);
+            label1.Location = new Point(12, 37);
             label1.Name = "label1";
             label1.Size = new Size(542, 37);
             label1.TabIndex = 1;
@@ -57,11 +61,11 @@
             // 
             // btnSalvar
             // 
-            btnSalvar.Location = new Point(468, 103);
+            btnSalvar.Location = new Point(544, 115);
             btnSalvar.Name = "btnSalvar";
-            btnSalvar.Size = new Size(75, 23);
+            btnSalvar.Size = new Size(119, 23);
             btnSalvar.TabIndex = 2;
-            btnSalvar.Text = "Salvar";
+            btnSalvar.Text = "recarregar";
             btnSalvar.UseVisualStyleBackColor = true;
             btnSalvar.Click += btnSalvar_Click;
             // 
@@ -78,11 +82,12 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(565, 450);
+            ClientSize = new Size(663, 450);
             Controls.Add(lblStatus);
             Controls.Add(btnSalvar);
             Controls.Add(label1);
             Controls.Add(dgvFinancialResults);
+            FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
