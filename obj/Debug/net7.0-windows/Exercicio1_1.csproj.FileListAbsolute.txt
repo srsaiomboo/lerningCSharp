@@ -1,0 +1,16 @@
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\bin\Debug\net7.0-windows\Exercicio1_1.exe
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\bin\Debug\net7.0-windows\Exercicio1_1.deps.json
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\bin\Debug\net7.0-windows\Exercicio1_1.runtimeconfig.json
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\bin\Debug\net7.0-windows\Exercicio1_1.dll
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\bin\Debug\net7.0-windows\Exercicio1_1.pdb
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.Form1.resources
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.csproj.GenerateResource.cache
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.AssemblyInfoInputs.cache
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.AssemblyInfo.cs
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.csproj.CoreCompileInputs.cache
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.dll
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\refint\Exercicio1_1.dll
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.pdb
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\Exercicio1_1.genruntimeconfig.cache
+C:\Users\Master-Dev1\Desktop\Master\Exercicio1_1\Exercicio1_1\obj\Debug\net7.0-windows\ref\Exercicio1_1.dll
